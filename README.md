@@ -1,6 +1,6 @@
 # cmdb
 前言
-开发系统环境：windows，mac
+开发系统环境：windows，mac\n
 开发工具： pycharm
 后端框架：tornado
 前端：bootstrap
