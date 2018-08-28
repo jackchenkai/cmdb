@@ -10,3 +10,4 @@ python版本： python3.6.5 (与mac python版本一致)
 开发规则：遵循 pep8
 代码仓库管理：github
 协同开发任务管理：trello
+
